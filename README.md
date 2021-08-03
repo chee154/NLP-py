@@ -1,1 +1,3 @@
 # NLP-py
+
+'|    |   index | description                                    |\n|---:|--------:|:-----------------------------------------------|\n|  0 |       0 | LexicalDiversity_VocabSize                     |\n|  1 |       1 | Normalization_ScoringVocab_TextDifficultyScore |\n|  2 |       2 | Stemming_Stopwords_EditDistance                |\n|  3 |       3 | POS-Tagging                                    |\n|  4 |       4 | IMDB-Review-Scraper                            |\n|  5 |       5 | Cosine-Similarity                              |\n|  6 |       6 | Document-Clustering                            |\n|  7 |       7 | SentimentAnalysis-VADER-SentiWordNet           |'
